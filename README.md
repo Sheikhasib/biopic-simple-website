@@ -8,7 +8,7 @@ Advantages of this website:
 
       ii. You must learn something new or it should entertain you.
 
-      iii. Because this site is so informative about media person. We could know about there normal,personal life.
+      iii. Because this site is so informative about media person. We could know about their normal,personal life.
 
 ## Available Scripts
 
