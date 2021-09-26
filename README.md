@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# My Biographical Movie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://infallible-heisenberg-de5704.netlify.app/).
+
+Advantages of this website:
+      
+      i. It's a biographical movie. I want make this movie with these amazing actor and actress. Where you should know about one's whole life describing in video.
+
+      ii. You must learn something new or it should entertain you.
+
+      iii. Because this site is so informative about media person. We could know about there normal,personal life.
 
 ## Available Scripts
 

@@ -1,0 +1,12 @@
+.artist-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.artist-container{
+    
+    margin: 10px;
+    border: 2px solid gray;
+    padding: 10px;
+    background: #01eeff52;
+}

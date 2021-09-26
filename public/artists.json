@@ -1,0 +1,90 @@
+[
+    {
+      "name": "Chanchal Chowdhury",
+      "role": "Actor",
+      "age": 47,
+      "country": " Bangladesh",
+      "salary": 1000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhyMWIU3BsSz6EBWa3-tEVA8W_bskLp_rHfg&usqp=CAU"
+    },
+    {
+      "name": "Christopher Nolan",
+      "role": "Director",
+      "age": 52,
+      "country": "America",
+      "salary": 25000000,
+      "img": "https://variety.com/wp-content/uploads/2021/09/Christopher-Nolan.jpg"
+    },
+    {
+      "name": "Fazlur Rahman Babu",
+      "role": "Actor",
+      "age": 60,
+      "country": " Bangladesh",
+      "salary": 7000000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fazlur_Rahman_Babu.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Actor",
+      "age": 65,
+      "country": " America",
+      "salary": 17000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6AgETMNH8PoypTsUS9GjcRrit-Gapegzdg&usqp=CAU"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "role": "Writer",
+      "age": 59,
+      "country": "America",
+      "salary": 12000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1f8pwHHb6-9VX9Nu18HRBwprrwUFxncUXw&usqp=CAU"
+    },
+    {
+      "name": "A. R. Rahman",
+      "role": "Music Director",
+      "age": 54,
+      "country": " India",
+      "salary": 15000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWagczg8RpLkB3Twen7cK909MnIUEkcii0MA&usqp=CAU"
+    },
+    {
+      "name": "Amitabh Bachchan",
+      "role": "Actor",
+      "age": 78,
+      "country": " India",
+      "salary": 20000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKMla3eeS3MJIW1pQ8MJw0DDCO8Lgou73Nw&usqp=CAU"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Actress",
+      "age": 31,
+      "country": " UK",
+      "salary": 1000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHwl55le5-1J5JPDTjeSCZxXc-Xx-ZcMptWg&usqp=CAU"
+    },
+    {
+      "name": "Meryl Streep",
+      "role": "Actress",
+      "age": 72,
+      "country": " America",
+      "salary": 1300000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDvVYP7Dd0X7pacQBNyb2T-l6u6UZ56geow&usqp=CAU"
+    },
+    {
+      "name": "Mosharraf Karim",
+      "role": "Actor",
+      "age": 50,
+      "country": " Bangladesh",
+      "salary": 15000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivM3IyuLn-fMak8iTKW30yfXWu6VdUuBQzg&usqp=CAU"
+    },
+    {
+      "name": "Emma Stone",
+      "role": "Actress",
+      "age": 32,
+      "country": " America",
+      "salary": 9000000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxIiHRhm0MRi3v3eaEsxAgtoE3GPXJhHFEg&usqp=CAU"
+    }
+  ]
