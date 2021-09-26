@@ -1,6 +1,6 @@
 # My Biographical Movie
 
-This project was bootstrapped with [Create React App](https://infallible-heisenberg-de5704.netlify.app/).
+This project was bootstrapped with [My Biographical Movie](https://infallible-heisenberg-de5704.netlify.app/).
 
 Advantages of this website:
       
